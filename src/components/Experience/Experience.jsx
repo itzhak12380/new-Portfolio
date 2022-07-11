@@ -14,7 +14,7 @@ function Experience() {
         <span>Projects</span>
       </div>
       <div className="Achievement">
-        <div className="circle">10+</div>
+        <div className="circle">10+  m</div>
         <span>Tech-career</span>
         <span>Programing course</span>
       </div>
